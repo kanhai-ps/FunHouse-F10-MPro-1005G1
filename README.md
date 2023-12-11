@@ -12,3 +12,9 @@ MacOS Verison      Ventura
 SMBIOS             MacBookPro16,2
 OpenCore Version   0.9.0
 ```
+
+屏幕截图
+-----
+![avatar](https://github.com/kanhai-ps/FunHouse-F10-MPro-1005G1/blob/main/screenshots/screenshot1.png)
+![avatar](https://github.com/kanhai-ps/FunHouse-F10-MPro-1005G1/blob/main/screenshots/screenshot2.png)
+![avatar](https://github.com/kanhai-ps/FunHouse-F10-MPro-1005G1/blob/main/screenshots/screenshot3.png)
