@@ -1,4 +1,4 @@
-# Hackintosh OpenCore EFI for FunHouse-F10-MPro
+# Hackintosh OpenCore EFI for FunHouse-F10-MPro-1005G1
 [一直使用wxjiyc大佬的EFI](https://github.com/wxjiyc/FunHouse-F10-MPro-1005G1-1065G7-Hackintosh)，自己只是备份一下
 ```
 CPU                Intel® Core™ i3-1005G1
