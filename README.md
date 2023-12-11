@@ -10,5 +10,5 @@ Audio              Realtek USB Audio
 WiFi & Bluetooth   Intel Wi-Fi 6 AX201
 MacOS Verison      Ventura
 SMBIOS             MacBookPro16,2
-OpenCore Version   0.8.6
+OpenCore Version   0.9.0
 ```
