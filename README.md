@@ -8,7 +8,7 @@ NVMe               Kingston A2000 500GB
 Monitor            BOE 13.5" 2256*1504
 Audio              Realtek USB Audio
 WiFi & Bluetooth   Intel Wi-Fi 6 AX201
-MacOS Verison      Monterey
+MacOS Verison      Ventura
 SMBIOS             MacBookPro16,2
-OpenCore Version   0.7.6
+OpenCore Version   0.8.6
 ```
