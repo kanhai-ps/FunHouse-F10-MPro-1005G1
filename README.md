@@ -10,5 +10,5 @@ Audio              Realtek USB Audio
 WiFi & Bluetooth   Intel Wi-Fi 6 AX201
 MacOS Verison      Monterey
 SMBIOS             MacBookPro16,2
-OpenCore Version   0.7.4
+OpenCore Version   0.7.6
 ```
